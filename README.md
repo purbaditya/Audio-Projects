@@ -3,9 +3,12 @@ A couple of audio projects in MATLAB using deep learning algorithms derived anal
 - Differentiable Moog Filter
 - HRTF approximation (with differentiable peak and shelving filters)
 
-![Dafx20](https://github.com/user-attachments/assets/fe72200e-bc2e-4d53-bb7b-a6bddc7da6a6)
+![Dafx20](https://github.com/user-attachments/assets/b4cdf109-91b8-4bda-b4c4-97a194dded90)
 
-![Dafx23](https://github.com/user-attachments/assets/e545ccec-21dd-4248-b852-b8518f24dbd3)
+---------------------------------------------------------------------------------------------
+
+![Dafx23](https://github.com/user-attachments/assets/4eaeaba3-0fa9-45b1-8ad4-43c2331e12fb)
+
 
 # Citation
 E. Gerat, P. Bhattacharya, U. Zölzer, "A Differentiable Digital Moog Filter for Machine Learning Applications", 26th International Conference on Digital Audio Effects (DAFx23), 2023
